@@ -1,0 +1,138 @@
+div#section-1 {
+    height: 669px;
+}
+
+.heading-text {
+    margin-top: 205px;
+}
+
+.heading-texti h2 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 125px;
+    text-align: center;
+}
+.heading-texti p {
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+    margin-top: 50px;
+}
+h4 {
+    font-size: 30px;
+    font-weight: 700;
+    background-color: #FAFAFA;
+    padding: 51px 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+input#exampleInputEmail1 {
+    border: none;
+    text-align: center;
+    border-bottom: 1px solid #dadada;
+    font-size: 20px;
+    padding: 20px 73px;
+}
+.c1 {
+    background: #4f9da63b;
+    
+}
+
+   .c2 {
+    background-color: #ff59596b;
+}
+
+.c3 {
+    background-color: #FFF4D6;
+}
+
+.icon-box {
+    padding: 66px 10px;
+    margin-top: 50px;
+        border-radius: 11px;
+}
+
+.icon-box img, h2, p {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.icon-box p {
+    color: #707070;
+}
+
+
+.section-4 {
+    margin-top: 125px;
+}
+
+
+
+.heading-text1 h2 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 50px;
+    text-align: left;
+}
+.heading-text1 p {
+    font-size: 18px;
+    text-align: left;
+    color: #707070;
+    margin-top: 50px;
+}
+.zx {
+    margin-top: 137px;
+}
+.tt h2 {
+    margin-top: 160px;
+}
+
+.email {
+    margin: 0;
+    position: absolute;
+    left: 21%;
+    margin-top: 126px;
+    background-color: #FFF4D6;
+    color: #b22323;
+    border: none;
+    border-radius: 5px;
+    padding: 75px 165px;
+    font-weight: 500;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-size: 20px;
+}
+
+.footer-x {
+    margin-top: 270px;
+}
+footer {
+        background-color: #000;
+    padding-bottom: 20px;
+
+}
+
+.footer-x p {
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footer-x img {
+    width: 174px;
+    margin-top: 10px;
+    margin-left: 43%;
+}
+h4:hover {
+    background-color: #d5dad6;
+}
+
+.icon-box:hover {
+
+ box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+img:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
